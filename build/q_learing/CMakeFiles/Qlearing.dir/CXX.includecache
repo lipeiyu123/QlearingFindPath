@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lpy/test/QlearingFindPath/q_learing/Qlearing.cpp
+Qlearing.h
+/home/lpy/test/QlearingFindPath/q_learing/Qlearing.h
+../random/rand.h
+/home/lpy/test/QlearingFindPath/random/rand.h
+iostream
+-
+
+/home/lpy/test/QlearingFindPath/q_learing/Qlearing.h
+Eigen/Dense
+-
+
+/home/lpy/test/QlearingFindPath/random/rand.h
+random
+-
+

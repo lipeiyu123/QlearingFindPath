@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lpy/test/QlearingFindPath/random/rand.cpp
+rand.h
+/home/lpy/test/QlearingFindPath/random/rand.h
+iostream
+-
+
+/home/lpy/test/QlearingFindPath/random/rand.h
+random
+-
+

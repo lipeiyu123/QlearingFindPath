@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/Q_learing.dir/main.cpp.o  -o Q_learing q_learing/libQlearing.a q_learing/random_binary_dir/librandom.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQlearing.a  CMakeFiles/Qlearing.dir/Qlearing.cpp.o
+/usr/bin/ranlib libQlearing.a
